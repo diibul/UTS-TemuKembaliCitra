@@ -55,7 +55,7 @@ Perbedaan mendasar dari kedua metode pengumpulan terletak pada perannya: lima do
 
 ## Metode Pengumpulan Data
 
-Aquisisi dataset dilakukan melalui dua tahapan pengerjaan:
+Akuisisi dataset dilakukan melalui dua tahapan pengerjaan:
 
 ### 1. Pengumpulan Manual (Tugas 2)
 
